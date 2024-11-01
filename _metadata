@@ -1,0 +1,11 @@
+{
+  "author" : "Ceterai",
+  "description" : "A My Enternia patch that makes it compatible with the Enhanced Storage mod.\n\nNote that while all (currently 36) containers are supported, not all follow the basic formula generally used for ES containers. This primarily because ~~I'm too lazy to calculate it for each container~~ altas have extra reinforced storage spaces, so had to sacrifice some/allow more space to account for air tightness, additional locks and bion composite layers, as well as other security aspects.\n\nThis mod requires both My Enternia and Enhanced Storage to work, obviously.\n",
+  "friendlyName" : "My Enternia Enhanced Storage Patch",
+  "includes" : ["my_enternia", "MyEnternia", "My Enternia", "Enhanced Storage"],
+  "link" : "steam://url/CommunityFilePage/3278292921",
+  "name" : "MyEnterniaEnhancedStorage",
+  "steamContentId" : "3278292921",
+  "tags" : "Crafting and Building|User Interface|Furniture and Objects|In-Game Tools|Mechanics",
+  "version" : "1.0.0a"
+}
