@@ -1,6 +1,12 @@
-# My Enternia Enhanced Storage Patch
+# My Enternia - Enhanced Storage
 
-A ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png) [My Enternia](https://github.com/Ceterai/Enternia) patch that makes it compatible with the [Enhanced Storage](https://steamcommunity.com/workshop/filedetails/?id=731220462) mod.
+<div align="center" style="font-size: 150%;">
+<a class="ct_button" href="https://ceterai.github.io/MyEnternia/Mods/MyEnterniaEnhancedStoragePatch">WEBSITE</a> | <a class="ct_button" href="https://github.com/Ceterai/MyEnterniaEnhancedStoragePatch">GITHUB</a><br>
+<a class="ct_button" href="https://steamcommunity.com/sharedfiles/filedetails/?id=3278292921">STEAM</a> | <a class="ct_button" href="https://community.playstarbound.com/resources/my-enternia-enhanced-storage-patch.6318/">SB FORUMS</a><br>
+<a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
+</div>
+
+A ![Ceterai's](https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png) [My Enternia](https://github.com/Ceterai/Enternia) patch that makes it compatible with the [Enhanced Storage](https://steamcommunity.com/workshop/filedetails/?id=731220462) mod.
 
 Note that while all (currently 36) containers are supported, not all follow the basic formula generally used for ES containers. This primarily because ~~I'm too lazy to calculate it for each container~~ altas have extra reinforced storage spaces, so had to sacrifice some/allow more space to account for air tightness, additional locks and bion composite layers, as well as other security aspects.
 
@@ -12,11 +18,11 @@ These are all the different ways to obtain the mod - choose whichever one you li
 
 ### Steam
 
-Subscribe to this mod on Steam! [Link](https://steamcommunity.com/workshop/filedetails/?id=3278292921)
+Subscribe to this mod on Steam!
 
 ### Starbound Forums
 
-Get this mod on the official Chucklefish Forums: [Link](https://community.playstarbound.com/resources/my-enternia-enhanced-storage-patch.6318/)
+Get this mod on the official Chucklefish Forums!
 
 ### GitHub
 
@@ -27,6 +33,6 @@ Get this mod on the official Chucklefish Forums: [Link](https://community.playst
 
 > Files, attached to releases, support direct public download links, so **can be used by servers** as well.
 
-### Nexus Mods
+## Showcase
 
-- *COMING SOON*
+![Alta Cooler](https://raw.githubusercontent.com/Ceterai/MyEnterniaEnhancedStoragePatch/refs/heads/main/.meta/images/cooler.png) ![Alta Locker](https://raw.githubusercontent.com/Ceterai/MyEnterniaEnhancedStoragePatch/refs/heads/main/.meta/images/locker.png) ![Alta Pod](https://raw.githubusercontent.com/Ceterai/MyEnterniaEnhancedStoragePatch/refs/heads/main/.meta/images/pod.png) ![Alta Washer](https://raw.githubusercontent.com/Ceterai/MyEnterniaEnhancedStoragePatch/refs/heads/main/.meta/images/washer.png)
